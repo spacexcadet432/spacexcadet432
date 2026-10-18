@@ -11,7 +11,7 @@ Ucchishth Singh
 
 
 
-AI systems engineer building backend-driven LLM applications.<br><br>Focused on RAG pipelines, AI agents, and real-world automation systems using Python and FastAPI.<br><br>Open to remote AI/backend internships.
+AI Engineer building backend-driven LLM applications.<br><br>Focused on RAG pipelines, AI agents, and real-world automation systems using Python and FastAPI.<br><br>Open to remote AI/backend internships.
 
 
 ## 🌐 Socials:
